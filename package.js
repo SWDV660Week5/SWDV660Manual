@@ -1,0 +1,21 @@
+{
+  "name": "SWDV660Manual",
+  "version": "1.0.0",
+  "description": "",
+  "main": "helloworld.js",
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SWDV660Week5/SWDV660Manual.git"
+  },
+  "author": "Navneet Duggal",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/SWDV660Week5/SWDV660Manual/issues"
+  },
+  "devDependencies": {
+    "mocha": "~2.5.3"
+  }
+}
