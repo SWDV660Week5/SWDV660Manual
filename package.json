@@ -16,6 +16,7 @@
     "url": "https://github.com/SWDV660Week5/SWDV660Manual/issues"
   },
   "devDependencies": {
-    "mocha": "~2.5.3"
+    "mocha": "~2.5.3",
+    "zombie": "~3.0.15"
   }
 }
